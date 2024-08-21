@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\self made homework\\notesandtagsapp\\notesandtagsapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|solutionrelative:notesandtagsapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\self made homework\\notesandtagsapp\\notesandtagsapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|solutionrelative:notesandtagsapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\self made homework\\notesandtagsapp\\notesandtagsapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|solutionrelative:notesandtagsapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\self made homework\\notesandtagsapp\\notesandtagsapp\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|solutionrelative:notesandtagsapp\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\self made homework\\notesandtagsapp\\notesandtagsapp\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|solutionrelative:notesandtagsapp\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\self made homework\\notesandtagsapp\\notesandtagsapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|solutionrelative:notesandtagsapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\self made homework\\notesandtagsapp\\notesandtagsapp\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|solutionrelative:notesandtagsapp\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\self made homework\\notesandtagsapp\\notesandtagsapp\\dtos\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|solutionrelative:notesandtagsapp\\dtos\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\self made homework\\notesandtagsapp\\notesandtagsapp\\dtos\\addnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|solutionrelative:notesandtagsapp\\dtos\\addnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\self made homework\\notesandtagsapp\\notesandtagsapp\\models\\enums\\priorityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56484C22-1E98-43C2-8952-155CA7D3A37C}|NotesAndTagsApp\\NotesAndTagsApp.csproj|solutionrelative:notesandtagsapp\\models\\enums\\priorityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "NotesAndTagsApp\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "NotesAndTagsApp\\Controllers\\NotesController.cs",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAqwBkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:20:27.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateNoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\DTOs\\UpdateNoteDto.cs",
+              "RelativeDocumentMoniker": "NotesAndTagsApp\\DTOs\\UpdateNoteDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\DTOs\\UpdateNoteDto.cs",
+              "RelativeToolTip": "NotesAndTagsApp\\DTOs\\UpdateNoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:18:42.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\DTOs\\NoteDto.cs",
+              "RelativeDocumentMoniker": "NotesAndTagsApp\\DTOs\\NoteDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\DTOs\\NoteDto.cs",
+              "RelativeToolTip": "NotesAndTagsApp\\DTOs\\NoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:18:14.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddNoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\DTOs\\AddNoteDto.cs",
+              "RelativeDocumentMoniker": "NotesAndTagsApp\\DTOs\\AddNoteDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\DTOs\\AddNoteDto.cs",
+              "RelativeToolTip": "NotesAndTagsApp\\DTOs\\AddNoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:13:09.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PriorityEnum.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\Models\\Enums\\PriorityEnum.cs",
+              "RelativeDocumentMoniker": "NotesAndTagsApp\\Models\\Enums\\PriorityEnum.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\Models\\Enums\\PriorityEnum.cs",
+              "RelativeToolTip": "NotesAndTagsApp\\Models\\Enums\\PriorityEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:02:25.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "NotesAndTagsApp\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "NotesAndTagsApp\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:01:35.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "NotesAndTagsApp\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\Models\\Tag.cs",
+              "RelativeToolTip": "NotesAndTagsApp\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:01:21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "NotesAndTagsApp\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\Models\\Note.cs",
+              "RelativeToolTip": "NotesAndTagsApp\\Models\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:00:51.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "NotesAndTagsApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\Models\\User.cs",
+              "RelativeToolTip": "NotesAndTagsApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:00:30.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaticDb.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\StaticDb.cs",
+              "RelativeDocumentMoniker": "NotesAndTagsApp\\StaticDb.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Self Made Homework\\NotesAndTagsApp\\NotesAndTagsApp\\StaticDb.cs",
+              "RelativeToolTip": "NotesAndTagsApp\\StaticDb.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:59:27.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
