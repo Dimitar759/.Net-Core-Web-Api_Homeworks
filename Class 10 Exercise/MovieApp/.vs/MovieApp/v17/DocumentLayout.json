@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{421B649F-A964-4FD8-98EE-519914194495}|MovieApp\\MovieApp.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421B649F-A964-4FD8-98EE-519914194495}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421B649F-A964-4FD8-98EE-519914194495}|MovieApp\\MovieApp.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\movieapp\\movieapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{421B649F-A964-4FD8-98EE-519914194495}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\movieapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C35B3-2448-405E-AA6A-FC25D1F8E989}|Domain\\Domain.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C50C35B3-2448-405E-AA6A-FC25D1F8E989}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8DAA63-9E86-4DC6-9ECD-6F3D9E98889E}|Helpers\\Helpers.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\helpers\\helpers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D8DAA63-9E86-4DC6-9ECD-6F3D9E98889E}|Helpers\\Helpers.csproj|solutionrelative:helpers\\helpers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1E2B3-76D9-4508-9F38-812A40E01763}|DataAccess\\DataAccess.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\dataaccess\\implementation\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC1E2B3-76D9-4508-9F38-812A40E01763}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\implementation\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1E2B3-76D9-4508-9F38-812A40E01763}|DataAccess\\DataAccess.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\dataaccess\\interface\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC1E2B3-76D9-4508-9F38-812A40E01763}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interface\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1E2B3-76D9-4508-9F38-812A40E01763}|DataAccess\\DataAccess.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\dataaccess\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC1E2B3-76D9-4508-9F38-812A40E01763}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1E2B3-76D9-4508-9F38-812A40E01763}|DataAccess\\DataAccess.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\dataaccess\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC1E2B3-76D9-4508-9F38-812A40E01763}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C35B3-2448-405E-AA6A-FC25D1F8E989}|Domain\\Domain.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\domain\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50C35B3-2448-405E-AA6A-FC25D1F8E989}|Domain\\Domain.csproj|solutionrelative:domain\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025DE22-DBF6-4C25-A5AA-6E7AC2270902}|DTOs\\DTOs.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\dtos\\addmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5025DE22-DBF6-4C25-A5AA-6E7AC2270902}|DTOs\\DTOs.csproj|solutionrelative:dtos\\addmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025DE22-DBF6-4C25-A5AA-6E7AC2270902}|DTOs\\DTOs.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\dtos\\updatemoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5025DE22-DBF6-4C25-A5AA-6E7AC2270902}|DTOs\\DTOs.csproj|solutionrelative:dtos\\updatemoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8DAA63-9E86-4DC6-9ECD-6F3D9E98889E}|Helpers\\Helpers.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\helpers\\dependencyinjectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8DAA63-9E86-4DC6-9ECD-6F3D9E98889E}|Helpers\\Helpers.csproj|solutionrelative:helpers\\dependencyinjectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8DAA63-9E86-4DC6-9ECD-6F3D9E98889E}|Helpers\\Helpers.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\helpers\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8DAA63-9E86-4DC6-9ECD-6F3D9E98889E}|Helpers\\Helpers.csproj|solutionrelative:helpers\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BCFCC7-7219-4256-8103-4AF85C6DA32F}|Services\\Services.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\services\\interface\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BCFCC7-7219-4256-8103-4AF85C6DA32F}|Services\\Services.csproj|solutionrelative:services\\interface\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BCFCC7-7219-4256-8103-4AF85C6DA32F}|Services\\Services.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\services\\implementation\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BCFCC7-7219-4256-8103-4AF85C6DA32F}|Services\\Services.csproj|solutionrelative:services\\implementation\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1E2B3-76D9-4508-9F38-812A40E01763}|DataAccess\\DataAccess.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\.net-core-web-api_homeworks\\class 10 exercise\\movieapp\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AC1E2B3-76D9-4508-9F38-812A40E01763}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DataAccess\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\MovieDbContext.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DataAccess\\MovieDbContext.cs",
+              "RelativeToolTip": "DataAccess\\MovieDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:51:12.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Domain\\Movie.cs",
+              "RelativeDocumentMoniker": "Domain\\Movie.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Domain\\Movie.cs",
+              "RelativeToolTip": "Domain\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:51:02.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DTOs\\AddMovieDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AddMovieDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DTOs\\AddMovieDto.cs",
+              "RelativeToolTip": "DTOs\\AddMovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:50:54.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DTOs\\UpdateMovieDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateMovieDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DTOs\\UpdateMovieDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateMovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:47:38.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T15:46:09.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T15:45:52.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helpers.csproj",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Helpers\\Helpers.csproj",
+              "RelativeDocumentMoniker": "Helpers\\Helpers.csproj",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Helpers\\Helpers.csproj",
+              "RelativeToolTip": "Helpers\\Helpers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T15:40:46.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieApp.csproj",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\MovieApp\\MovieApp.csproj",
+              "RelativeDocumentMoniker": "MovieApp\\MovieApp.csproj",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\MovieApp\\MovieApp.csproj",
+              "RelativeToolTip": "MovieApp\\MovieApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T15:39:11.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Program.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeToolTip": "MovieApp\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:29:18.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DataAccess\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DataAccess\\Interface\\IRepository.cs",
+              "RelativeToolTip": "DataAccess\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:27:51.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Helpers\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "Helpers\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Helpers\\DatabaseSettings.cs",
+              "RelativeToolTip": "Helpers\\DatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:09:35.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjectionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Helpers\\DependencyInjectionHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\DependencyInjectionHelper.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Helpers\\DependencyInjectionHelper.cs",
+              "RelativeToolTip": "Helpers\\DependencyInjectionHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:08:38.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DataAccess\\Implementation\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Implementation\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DataAccess\\Implementation\\MovieRepository.cs",
+              "RelativeToolTip": "DataAccess\\Implementation\\MovieRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:20:02.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DataAccess\\Interface\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interface\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DataAccess\\Interface\\IMovieRepository.cs",
+              "RelativeToolTip": "DataAccess\\Interface\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:19:37.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Services\\Implementation\\MovieService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\MovieService.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Services\\Implementation\\MovieService.cs",
+              "RelativeToolTip": "Services\\Implementation\\MovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:10:47.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Services\\Interface\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\Services\\Interface\\IMovieService.cs",
+              "RelativeToolTip": "Services\\Interface\\IMovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:10:10.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
