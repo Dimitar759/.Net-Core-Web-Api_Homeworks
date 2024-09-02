@@ -1,5 +1,6 @@
 ﻿using DataAccess;
 using DataAccess.Implementation;
+using DataAccess.Interface;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Services.Implementation;
@@ -16,7 +17,7 @@ namespace Helpers
         }
         public static void InjectRepositories(IServiceCollection services)
         {
-            services.AddTransient<MovieRepository, MovieRepository>();
+            services.AddTransient<IMovieRepository, MovieRepository>();
         }
 
         public static void InjectServices(IServiceCollection services)

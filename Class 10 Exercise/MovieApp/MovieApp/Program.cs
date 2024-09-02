@@ -1,3 +1,6 @@
+
+using Helpers;
+
 namespace MovieApp
 {
     public class Program
@@ -7,22 +10,20 @@ namespace MovieApp
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            // Configure Database Settings
             var appSettings = builder.Configuration.GetSection("DbSettings");
-            builder.Services.Configure<DatabaseSettings>(appSettings); 
-            DatabaseSettings dbSettings = appSettings.Get<DatabaseSettings>();
+            builder.Services.Configure<DatabaseSettings>(appSettings);
+            var dbSettings = appSettings.Get<DatabaseSettings>();
             var connectionString = dbSettings.ConnectionString;
 
+            // Dependency Injection Configuration
             DependencyInjectionHelper.InjectDbContext(builder.Services, connectionString);
-
             DependencyInjectionHelper.InjectRepositories(builder.Services);
             DependencyInjectionHelper.InjectServices(builder.Services);
-
 
             var app = builder.Build();
 
@@ -34,10 +35,7 @@ namespace MovieApp
             }
 
             app.UseHttpsRedirection();
-
             app.UseAuthorization();
-
-
             app.MapControllers();
 
             app.Run();

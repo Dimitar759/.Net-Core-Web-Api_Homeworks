@@ -125,11 +125,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\MovieApp\\MovieApp.csproj": {
-                "projectPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\MovieApp\\MovieApp.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -460,6 +456,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DataAccess\\DataAccess.csproj"
+              },
               "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DTOs\\DTOs.csproj": {
                 "projectPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\DTOs\\DTOs.csproj"
               }

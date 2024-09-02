@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTOs", "DTOs\DTOs.csproj", "{5025DE22-DBF6-4C25-A5AA-6E7AC2270902}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{E8BCFCC7-7219-4256-8103-4AF85C6DA32F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{E8BCFCC7-7219-4256-8103-4AF85C6DA32F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{9D8DAA63-9E86-4DC6-9ECD-6F3D9E98889E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helpers", "Helpers\Helpers.csproj", "{9D8DAA63-9E86-4DC6-9ECD-6F3D9E98889E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1635,8 +1635,7 @@
           "Microsoft.EntityFrameworkCore.Abstractions": "8.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
           "Microsoft.Extensions.Configuration.Binder": "8.0.2",
-          "Microsoft.Extensions.DependencyInjection": "8.0.0",
-          "MovieApp": "1.0.0"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0"
         },
         "compile": {
           "bin/placeholder/Domain.dll": {}
@@ -1676,7 +1675,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "DTOs": "1.0.0"
+          "DTOs": "1.0.0",
+          "DataAccess": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Services.dll": {}
@@ -4795,16 +4795,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Cycle detected. \r\n  MovieApp -> Helpers -> DataAccess -> Domain -> MovieApp.",
-      "libraryId": "MovieApp",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

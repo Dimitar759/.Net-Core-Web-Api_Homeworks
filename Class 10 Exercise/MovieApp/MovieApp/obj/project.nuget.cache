@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "3u++Q/8IG3ANP2gTbXfbEuDC5H+s7MJHQkBusLVtayndkosJZOq4upJ1FStmjy0TXUwiMxmzG06y5s0h02WIJw==",
-  "success": false,
+  "dgSpecHash": "E/IOUvLAWmPtzzfQNvJ2Qt4upY4ILfYIoThcVN/q4RgzZQ/WZVwz1Ks0ITQ+hSLQl8+SDje76gF+uZ9pDtPRlQ==",
+  "success": true,
   "projectFilePath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\.Net-Core-Web-Api_Homeworks\\Class 10 Exercise\\MovieApp\\MovieApp\\MovieApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dimit\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
@@ -88,15 +88,5 @@
     "C:\\Users\\dimit\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\dimit\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Cycle detected. \r\n  MovieApp -> Helpers -> DataAccess -> Domain -> MovieApp.",
-      "libraryId": "MovieApp",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }
