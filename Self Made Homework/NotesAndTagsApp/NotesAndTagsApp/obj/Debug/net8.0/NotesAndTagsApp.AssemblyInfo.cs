@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotesAndTagsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cffd8a84cb875adec5320ded90139696175b3a1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+198a1dfaa1fe79bb5567c230d5ccf7855da37d31")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotesAndTagsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotesAndTagsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -79,8 +79,7 @@
               "RelativeToolTip": "NotesAndTagsApp\\DTOs\\UpdateNoteDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T17:18:42.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T17:18:42.56Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "NotesAndTagsApp\\DTOs\\NoteDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T17:18:14.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T17:18:14.26Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "NotesAndTagsApp\\DTOs\\AddNoteDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T17:13:09.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T17:13:09.758Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "NotesAndTagsApp\\Models\\Enums\\PriorityEnum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T17:02:25.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T17:02:25.19Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "NotesAndTagsApp\\Models\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T17:01:35.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T17:01:35.747Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "NotesAndTagsApp\\Models\\Tag.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T17:01:21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T17:01:21Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "NotesAndTagsApp\\Models\\Note.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T17:00:51.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T17:00:51.65Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "NotesAndTagsApp\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T17:00:30.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T17:00:30.86Z"
             },
             {
               "$type": "Document",
@@ -183,8 +175,7 @@
               "RelativeToolTip": "NotesAndTagsApp\\StaticDb.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T16:59:27.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T16:59:27.413Z"
             }
           ]
         }
